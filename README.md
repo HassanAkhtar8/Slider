@@ -19,3 +19,7 @@
 ## Acknowledgements
 
 - I took great help from freecodecamp for solving some problem in javascript 
+
+## Link
+
+- [Live site URL](https://hassanakhtar8.github.io/Slider/)
